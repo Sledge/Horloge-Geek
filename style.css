@@ -4,7 +4,9 @@ body {
     color: #DDD;
 }
 
-
+a {
+    color: #DDD;
+}
 
 #clock {
     position: fixed;
