@@ -8,6 +8,10 @@ a {
     color: #DDD;
 }
 
+p {
+    text-align: center;
+}
+
 #clock {
     position: fixed;
     top: 50%;
